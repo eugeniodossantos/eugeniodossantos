@@ -39,7 +39,8 @@ Procuro oportunidades onde possa contribuir como **Frontend Developer**, evoluir
 Plataforma web desenvolvida para apresentação e reserva online de propriedades para estadias curtas, com experiência bilingue em Português e Inglês, gestão administrativa, clientes, disponibilidade, reservas, pagamentos, notificações, relatórios e auditoria.
 
 **Stack:** Laravel, PHP, React, TypeScript, Vite, MySQL/MariaDB, Laravel Sanctum  
-**Website:** https://yuhome.yucargo.co.ao/pt
+**Website:** https://yuhome.yucargo.co.ao/pt  
+**Case study:** https://github.com/eugeniodossantos/yuhome-case-study
 
 ### 🛒 Kendi Angola — E-commerce Case Study
 Documentação técnica de uma plataforma de comércio eletrónico em produção.
