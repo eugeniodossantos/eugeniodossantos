@@ -9,7 +9,7 @@ Atualmente estou a reforçar o meu portfólio de **Frontend Development**, com f
 ## 🛠️ Tecnologias e ferramentas
 
 - **Frontend:** Next.js, React, TypeScript, JavaScript, HTML5, CSS3 e Bootstrap
-- **Backend:** PHP, Laravel e Flask
+- **Backend:** Python, PHP, Laravel e Flask
 - **Bases de dados:** MySQL e PostgreSQL
 - **Integrações:** APIs REST
 - **Ferramentas:** Git, GitHub, Docker, Linux e Figma
