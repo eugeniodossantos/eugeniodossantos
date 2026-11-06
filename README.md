@@ -24,7 +24,7 @@ Atualmente estou a reforçar o meu portfólio de **Frontend Development**, com f
 
 ## 🎯 Objetivo profissional
 
-Procuro oportunidades onde possa contribuir como **Frontend Developer**, evoluir tecnicamente e participar no desenvolvimento de produtos digitais com qualidade de código, boa experiência de utilização e impacto real.
+Procuro oportunidades onde possa contribuir como **Frontend ou Backend Developer**, evoluir tecnicamente e participar no desenvolvimento de produtos digitais com qualidade de código, boa experiência de utilização e impacto real.
 
 ## 📫 Contacto
 
